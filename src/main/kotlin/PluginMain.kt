@@ -1,5 +1,6 @@
 package org.example.mirai.plugin
 
+import net.mamoe.mirai.Bot
 import net.mamoe.mirai.console.permission.AbstractPermitteeId
 import net.mamoe.mirai.console.permission.PermissionService
 import net.mamoe.mirai.console.permission.PermissionService.Companion.hasPermission
